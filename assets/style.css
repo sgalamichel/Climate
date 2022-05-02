@@ -20,7 +20,7 @@ body{
     justify-content: center;
     align-items: center;
     color: var(--color4);
-    background-image: url(/assets/img/paisaje.jpg);
+    background-image: url(./img/paisaje.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
